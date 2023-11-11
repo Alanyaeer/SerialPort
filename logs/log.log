@@ -1,0 +1,40 @@
+2023-11-11 23:24:05.325 [main] INFO  com.cy.SerialPortTestApplication - Starting SerialPortTestApplication using Java 1.8.0_202 on LAPTOP-9MCME735 with PID 18180 (C:\计算机网络实验\serial-port-test\target\classes started by wps in C:\计算机网络实验\serial-port-test)
+2023-11-11 23:24:05.334 [main] INFO  com.cy.SerialPortTestApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-11 23:24:06.817 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9393 (http)
+2023-11-11 23:24:06.827 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:24:06.828 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-11 23:24:06.828 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-11-11 23:24:06.933 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-11 23:24:06.933 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1548 ms
+2023-11-11 23:24:07.236 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:24:07.252 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9393 (http) with context path ''
+2023-11-11 23:24:07.261 [main] INFO  com.cy.SerialPortTestApplication - Started SerialPortTestApplication in 2.406 seconds (JVM running for 2.945)
+2023-11-11 23:24:36.450 [SpringApplicationShutdownHook] WARN  o.s.c.annotation.CommonAnnotationBeanPostProcessor - Destroy method on bean with name 'serialPortTestApplication' threw an exception: java.lang.NullPointerException
+2023-11-11 23:24:42.390 [main] INFO  com.cy.SerialPortTestApplication - Starting SerialPortTestApplication using Java 1.8.0_202 on LAPTOP-9MCME735 with PID 22264 (C:\计算机网络实验\serial-port-test\target\classes started by wps in C:\计算机网络实验\serial-port-test)
+2023-11-11 23:24:42.392 [main] INFO  com.cy.SerialPortTestApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-11 23:24:43.775 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9393 (http)
+2023-11-11 23:24:43.785 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:24:43.786 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-11 23:24:43.786 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-11-11 23:24:43.912 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-11 23:24:43.912 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1470 ms
+2023-11-11 23:24:44.226 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:24:44.242 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9393 (http) with context path ''
+2023-11-11 23:24:44.250 [main] INFO  com.cy.SerialPortTestApplication - Started SerialPortTestApplication in 2.39 seconds (JVM running for 2.765)
+2023-11-11 23:26:22.450 [http-nio-9393-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-11 23:26:22.450 [http-nio-9393-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-11-11 23:26:22.451 [http-nio-9393-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-11-11 23:57:40.443 [main] INFO  com.cy.SerialPortTestApplication - Starting SerialPortTestApplication using Java 1.8.0_202 on LAPTOP-9MCME735 with PID 26272 (C:\计算机网络实验\serial-port-test\target\classes started by wps in C:\计算机网络实验\serial-port-test)
+2023-11-11 23:57:40.446 [main] INFO  com.cy.SerialPortTestApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-11 23:57:41.831 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9393 (http)
+2023-11-11 23:57:41.843 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:57:41.844 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-11 23:57:41.844 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-11-11 23:57:41.978 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-11 23:57:41.978 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1485 ms
+2023-11-11 23:57:42.340 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9393"]
+2023-11-11 23:57:42.361 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9393 (http) with context path ''
+2023-11-11 23:57:42.368 [main] INFO  com.cy.SerialPortTestApplication - Started SerialPortTestApplication in 2.446 seconds (JVM running for 2.873)
+2023-11-11 23:57:45.149 [http-nio-9393-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-11 23:57:45.149 [http-nio-9393-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-11-11 23:57:45.150 [http-nio-9393-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms

@@ -1,0 +1,5 @@
+server:
+  port: 9393
+pi:
+  portname: COM2
+  baudrate: 9600
